@@ -1,0 +1,140 @@
+/**** BASE STYLES ****/
+
+body {
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+
+/**** GRID ****/
+
+.full-width {
+  margin: 0 auto;
+  width: 1200px;
+}
+
+
+.half-width {
+  float: left;
+  width: 600px;
+}
+
+
+
+/**** HEADER ****/
+
+header {
+  /*border-bottom: solid 1px black; */
+}
+
+header h1 {
+  font-size: 39px;
+  padding-top: 25px;
+  text-transform: uppercase;
+  border-bottom: solid 5px black;
+}
+
+span.assortment {
+  color: orange;
+  letter-spacing: 6px;
+}
+
+nav {
+  float: right;
+  padding: 55px 25px;
+}
+
+nav ul li {
+  display: inline-block;
+  font-size: 20px;
+  padding-left: 35px;
+}
+
+/**** MAIN ****/
+
+main {
+  /*border: solid 1px black;*/
+  clear: both;
+}
+
+p {
+  margin: 0 auto;
+}
+
+p.fourteen {
+	background-color: #5B2C6F;
+	color: #5B2C6F;
+}
+
+p.thirteen {
+	background-color: #6C3483;
+	color: #6C3483;
+}
+
+p.twelve {
+	background-color: #7D3C98;
+	color: #7D3C98;
+}
+
+p.eleven {
+	background-color: #8E44AD;
+	color: #8E44AD;
+}
+
+p.ten {
+	background-color: #A569BD;
+	color: #A569BD;
+}
+
+p.nine {
+	background-color: #BB8FCE;
+	color: #BB8FCE;
+}
+
+p.eight {
+	background-color: #D2B4DE;
+	color: #D2B4DE;
+}
+
+p.seven {
+	background-color: #ABEBC6;
+	color: #ABEBC6;
+}
+
+p.six {
+	background-color: #AED6F1;
+	color: #AED6F1;
+}
+
+p.five {
+	background-color: #85C1E9;
+	color: #85C1E9;
+}
+
+p.four {
+	background-color: #5DADE2;
+	color: #5DADE2;
+}
+
+p.three {
+	background-color: #3498DB;
+	color: #3498DB;
+}
+
+p.two {
+	background-color: #2E86C1;
+	color: #2E86C1;
+}
+
+p.one {
+	background-color: #2874A6;
+	color: #2874A6;
+}
+
+
+/**** FOOTER ****/
+
+footer {
+  /*border: solid 1px black;*/
+  text-align: center;
+  padding-top: 100px;
+}
